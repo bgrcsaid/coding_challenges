@@ -12,4 +12,4 @@ from functools import reduce
 import operator
 
 def circuit_power(*args):
-	return reduce(operator.mul, args, 1)
+	return reduce(operator.mul, args)
