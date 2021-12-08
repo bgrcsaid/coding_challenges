@@ -3,3 +3,8 @@ def calculate_fuel(n):
 		return 100
 	else:
 		return 10*n
+
+#or
+
+def calculate_fuel(n):
+	return max(n*10, 100)
