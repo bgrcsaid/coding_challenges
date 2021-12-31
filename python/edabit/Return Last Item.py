@@ -9,4 +9,4 @@ def last_ind(lst):
 #or
 
 def last_ind(lst):
-	return None if len(lst) == 0 else lst[-1]
+	return None if len(lst) == 0 else lst[-1}
