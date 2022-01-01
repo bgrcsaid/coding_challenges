@@ -1,6 +1,6 @@
 def circuit_power(voltage, current):
 	return voltage*current
-  
+
 #or
 
 def circuit_power(*args):
