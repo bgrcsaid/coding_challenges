@@ -12,6 +12,6 @@ def operate(n1,n2,o):
     '/' : operator.truediv,
     '%' : operator.mod,
     '^' : operator.xor,
-		}
+	}
 
 	return ops[o](n1,n2)
