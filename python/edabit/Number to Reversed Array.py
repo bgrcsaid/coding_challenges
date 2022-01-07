@@ -4,4 +4,4 @@ def reverse_list(num):
 #or
 
 def reverse_list(num):
-  return list(map(int,reversed(str(num))))
+  return list(map(int, reversed(str(num))))
