@@ -4,4 +4,4 @@ def get_word(left, right):
 #or
 
 def get_word(left, right):
-	return (left+right).capitalize()
+	return (left+  right).capitalize()
