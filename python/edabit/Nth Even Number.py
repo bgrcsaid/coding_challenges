@@ -11,4 +11,4 @@ def nth_even(n):
 #or
 
 def nth_even(n):
-	return n * 2 - 2
+	return n*2-2
