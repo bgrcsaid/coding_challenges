@@ -4,4 +4,4 @@ def next_element(lst):
 	return lst[-1]
 
 def next_element(lst):
-	return lst[-1] + (lst[1] - lst[0])
+	return lst[-1]+(lst[1]-lst[0])
