@@ -4,7 +4,7 @@ def hello_name(name):
 #or
 
 def hello_name(name):
-	return ("Hello %s!") %name
+	return ("Hello %s!") % name
 
 #or
 
