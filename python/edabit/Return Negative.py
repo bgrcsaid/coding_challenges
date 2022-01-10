@@ -12,4 +12,4 @@ def return_negative(n):
 #or
 
 def return_negative(n):
-	return -abs(n)
+	return - abs(n)
