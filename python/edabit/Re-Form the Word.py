@@ -1,5 +1,5 @@
 def get_word(left, right):
-	return "".join([left.title(), right])
+	return "".join([left.title(),right])
 
 #or
 
