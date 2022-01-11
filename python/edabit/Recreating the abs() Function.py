@@ -4,4 +4,4 @@ def absolute(n):
 #or
 
 def absolute(n):
-	return max(n, -n)
+	return max(n,-n)
