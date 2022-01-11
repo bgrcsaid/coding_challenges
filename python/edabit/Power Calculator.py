@@ -4,7 +4,7 @@ def circuit_power(voltage, current):
 #or
 
 def circuit_power(*args):
-	return args[0] * args[1]
+	return args[0]*args[1]
 
 #or
 
