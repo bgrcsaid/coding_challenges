@@ -4,7 +4,7 @@ def give_me_something(a):
 #or
 
 def give_me_something(a):
-		return "something " + a
+		return "something " +a
 
 #or
 
