@@ -9,4 +9,4 @@ def get_last_item(lst):
 #or
 
 def get_last_item(lst):
-  return lst[len(lst) - 1]
+  return lst[len(lst)-1]
