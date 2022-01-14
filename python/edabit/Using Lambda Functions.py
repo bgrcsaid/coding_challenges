@@ -1,1 +1,1 @@
-lambda_func = lambda n:n
+lambda_func=lambda n:n
