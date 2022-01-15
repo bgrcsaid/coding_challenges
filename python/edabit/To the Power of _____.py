@@ -1,5 +1,5 @@
 def calculate_exponent(num, exp):
-	return num**exp
+	return num** exp
 
 #or
 
