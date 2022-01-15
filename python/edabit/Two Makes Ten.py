@@ -7,7 +7,7 @@ def makes10(a, b):
 #or
 
 def makes10(a, b):
-  return 10 in [a,b,a+b]
+  return 10 in [a,b ,a+b]
 
 #or
 
