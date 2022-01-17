@@ -1,2 +1,2 @@
 def add(char, txt):
-	return txt.replace(" ", char)
+	return txt.replace(" ",char)
