@@ -10,7 +10,7 @@ class BasicPlan:
 class StandardPlan:
 	can_stream = True
 	can_download = True
-	num_of_devices = 2
+	num_of_devices =2
 	has_SD = True
 	has_HD = True
 	has_UHD = False
