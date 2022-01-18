@@ -6,4 +6,4 @@ def trimmed_averages(lst):
 #or
 
 def trimmed_averages(lst):
-	return round(sum(sorted(lst)[1:-1])/ (len(lst) - 2))
+	return round(sum(sorted(lst)[1: -1])/ (len(lst) - 2))
