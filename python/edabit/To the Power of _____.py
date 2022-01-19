@@ -4,7 +4,7 @@ def calculate_exponent(num, exp):
 #or
 
 def calculate_exponent(*args):
-	return args[0]** args[1]
+	return args[0]**args[1]
 
 #or
 
