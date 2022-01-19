@@ -7,7 +7,7 @@ def area_shape(base, height, shape):
 #or
 
 def area_shape(b,h,f):
-	return b*h *0.5 if f=='triangle' else b*h
+	return b*h * 0.5 if f=='triangle' else b*h
 
 #or
 
