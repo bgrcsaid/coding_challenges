@@ -4,7 +4,7 @@ def is_empty(s):
 #or
 
 def is_empty(s):
-	return s == ''
+	return s== ''
 
 #or
 
