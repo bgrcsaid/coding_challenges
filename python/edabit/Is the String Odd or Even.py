@@ -4,4 +4,4 @@ def odd_or_even(word):
 #or
 
 def odd_or_even(str):
-	return not len(str) % 2
+	return not len(str)% 2
