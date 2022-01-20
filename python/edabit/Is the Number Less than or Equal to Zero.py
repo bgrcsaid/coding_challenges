@@ -7,7 +7,7 @@ def less_than_or_equal_to_zero(num):
 #or
 
 def less_than_or_equal_to_zero(num):
-  return num <= 0
+  return num <=0
 
 #or
 
