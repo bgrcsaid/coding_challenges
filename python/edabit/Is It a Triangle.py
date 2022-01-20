@@ -1,6 +1,6 @@
 def is_triangle(a, b, c):
 	lst=sorted([a,b,c])
-	return lst[0]+lst[1]>lst[2]
+	return lst[0] +lst[1]>lst[2]
 
 #or
 
