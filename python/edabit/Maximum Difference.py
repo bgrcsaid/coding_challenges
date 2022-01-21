@@ -1,2 +1,2 @@
 def difference(nums):
-	return max(nums) - min(nums)
+	return max(nums) -min(nums)
