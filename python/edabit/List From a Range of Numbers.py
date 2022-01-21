@@ -4,4 +4,4 @@ def range_of_num(start, end):
 #or
 
 def range_of_num(start, end):
-	return [i for i in range(start+1,end)]
+	return [i for i in range(start+1, end)]
