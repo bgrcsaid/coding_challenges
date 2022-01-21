@@ -1,4 +1,4 @@
-def first_one(a, b=None, c=None, d=None):
+def first_one(a, b=None, c=None,d=None):
 	if bool(a) == True:
 		return a
 	elif bool(b) == True:
