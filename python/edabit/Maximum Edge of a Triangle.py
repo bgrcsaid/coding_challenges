@@ -4,4 +4,4 @@ def next_edge(side1, side2):
 #or
 
 def next_edge(*args):
-	return sum(args) - 1
+	return sum(args) -1
