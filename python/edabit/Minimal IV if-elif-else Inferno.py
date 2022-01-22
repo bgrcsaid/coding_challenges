@@ -4,4 +4,4 @@ def equilibrium(x):
 #or
 
 def equilibrium(x):
-	return x == 0 or ('negative','positive')[x> 0]
+	return x ==0 or ('negative','positive')[x> 0]
