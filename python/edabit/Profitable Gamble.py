@@ -1,4 +1,4 @@
-def profitable_gamble(prob, prize, pay):
+def profitable_gamble(prob, prize,pay):
 	if prob*prize > pay:
 		return True
 	else:
