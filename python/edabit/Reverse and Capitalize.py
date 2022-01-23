@@ -1,5 +1,5 @@
 def reverse_capitalize(txt):
-	return txt.upper()[::-1]
+	return txt.upper()[:: -1]
 
 #or
 
