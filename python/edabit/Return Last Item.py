@@ -1,5 +1,5 @@
 def last_ind(lst):
-	return lst[-1] if lst!=[] and lst!="" else None
+	return lst[-1] if lst!=[] and lst !="" else None
 
 #or
 
