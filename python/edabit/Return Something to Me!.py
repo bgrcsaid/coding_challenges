@@ -8,4 +8,4 @@ def give_me_something(a):
 
 #or
 
-give_me_something = lambda a:'something '+a
+give_me_something = lambda a:'something '+ a
