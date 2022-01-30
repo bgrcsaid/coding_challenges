@@ -8,4 +8,4 @@ def sum_five(lst):
 #or
 
 def sum_five(lst):
-	return sum(i for i in lst if i>5)
+	return sum(i for i in lst if i >5)
