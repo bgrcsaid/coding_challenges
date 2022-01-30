@@ -12,4 +12,4 @@ def sum_minimums(lst):
 #or
 
 def sum_minimums(lst):
-	return sum(map(min, lst))
+	return sum(map(min,lst))
