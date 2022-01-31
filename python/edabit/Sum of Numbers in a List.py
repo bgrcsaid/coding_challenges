@@ -1,7 +1,7 @@
 import math
 
 def list_sum(lst):
-    return sum(i** 2 for i in lst if i%2==0) + round(sum(math.sqrt(i) for i in lst if i%2!=0),2)
+    return sum(i**2 for i in lst if i%2==0) + round(sum(math.sqrt(i) for i in lst if i%2!=0),2)
 
 #or
 
