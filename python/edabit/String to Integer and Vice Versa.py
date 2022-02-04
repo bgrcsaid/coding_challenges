@@ -6,5 +6,5 @@ def to_str(num):
 
 #or
 
-to_int =int
+to_int = int
 to_str = str
