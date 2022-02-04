@@ -8,7 +8,7 @@ def list_sum(lst):
 import math
 
 def list_sum(lst):
-	return round(sum(i**2 if i%2==0 else math.sqrt(i) for i in lst), 2)
+	return round(sum(i**2 if i%2== 0 else math.sqrt(i) for i in lst), 2)
 
 #or
 
