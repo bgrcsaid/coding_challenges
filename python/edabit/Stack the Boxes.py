@@ -1,2 +1,2 @@
 def stack_boxes(n):
-	return n** 2
+	return n ** 2
