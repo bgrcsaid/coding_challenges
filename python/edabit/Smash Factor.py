@@ -1,2 +1,2 @@
 def smash_factor(bs, cs):
-	return round(bs/cs,2)
+	return round(bs/cs, 2)
