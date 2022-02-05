@@ -3,5 +3,5 @@ def mod(a, b):
 
 #or
 
-def mod(a, b):
+def mod(a,b):
 	return a-b*( a//b)
