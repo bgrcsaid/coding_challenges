@@ -1,5 +1,5 @@
 def googlify(n):
-	return 'G' + n* 'o'+ 'gle' if n>1 else 'invalid'
+	return 'G'+ n* 'o'+ 'gle' if n>1 else 'invalid'
 
 #or
 
