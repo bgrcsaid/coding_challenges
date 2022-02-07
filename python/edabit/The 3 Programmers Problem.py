@@ -4,7 +4,7 @@ def programmers(one, two, three):
 #or
 
 def programmers(*args):
-	return max(args)-min(args)
+	return max(args)- min(args)
 
 #or
 
