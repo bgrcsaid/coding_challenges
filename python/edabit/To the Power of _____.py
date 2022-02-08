@@ -12,4 +12,4 @@ from functools import reduce
 import operator
 
 def calculate_exponent(*args):
-	return reduce(operator.pow, args)
+	return reduce(operator.pow,args)
