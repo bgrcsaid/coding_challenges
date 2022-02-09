@@ -1,4 +1,4 @@
-def calculate_exponent(num, exp):
+def calculate_exponent(num,exp):
 	return num**exp
 
 #or
