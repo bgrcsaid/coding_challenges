@@ -1,4 +1,4 @@
-def forbidden_letter(char, lst):
+def forbidden_letter(char,lst):
 	return not any(char in i for i in lst)
 
 #or
