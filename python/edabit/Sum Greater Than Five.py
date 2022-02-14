@@ -1,5 +1,5 @@
 def sum_five(lst):
-	sum = 0
+	sum =0
 	for i in lst:
 		if i>5:
 			sum = sum+i
