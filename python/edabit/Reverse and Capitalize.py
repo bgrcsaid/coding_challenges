@@ -4,4 +4,4 @@ def reverse_capitalize(txt):
 #or
 
 def reverse_capitalize(txt):
-	return txt[:: -1].upper()
+	return txt[::-1].upper()
