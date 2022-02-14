@@ -1,5 +1,5 @@
 def rotate_by_one(lst):
-    return lst[-1:] + lst[:-1]
+    return lst[-1:]+ lst[:-1]
 
 #or
 
