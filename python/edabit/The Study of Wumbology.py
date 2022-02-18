@@ -1,2 +1,2 @@
 def wumbo(words):
-	return words.replace("M","W")
+	return words.replace("M", "W")
