@@ -9,4 +9,4 @@ def yeah_nope(b):
 #or
 
 def yeah_nope(b):
-	return ['nope','yeah'][b]
+	return ['nope', 'yeah'][b]
