@@ -1,5 +1,5 @@
 def is_truthy(val):
-	return bool(val) ==1
+	return bool(val)==1
 
 #or
 
