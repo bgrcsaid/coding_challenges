@@ -4,4 +4,4 @@ def googlify(n):
 #or
 
 def googlify(n):
-	return 'G{}gle'.format('o' *n) if n>1 else 'invalid'
+	return 'G{}gle'.format('o'*n) if n>1 else 'invalid'
